@@ -1,0 +1,10 @@
+Morning transport choice
+
+Input:  rain_chance (percent, from the forecast)
+Output: transport (bus or bike)
+
+Process:
+Read rain_chance. 
+If it is greater than 40, set transport = bus.
+Otherwise set transport = bike. 
+Output transport.
